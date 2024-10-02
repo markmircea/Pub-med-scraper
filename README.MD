@@ -3,7 +3,7 @@
 Follow these steps to run your Python script on a new computer:
 
 1. **Install Python**
-   - Download and install Python from [python.org](https://www.python.org/downloads/)
+   - Download and install Python v3 from [python.org](https://www.python.org/downloads/)
    - Ensure you check "Add Python to PATH" during installation
 
 2. **Set up a virtual environment (recommended)**
